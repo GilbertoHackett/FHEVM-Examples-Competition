@@ -12,6 +12,8 @@ A comprehensive ecosystem for building, testing, and deploying Fully Homomorphic
 **Challenge:** Build standalone, Hardhat-based FHEVM example repositories with automated scaffolding and comprehensive documentation.
 
 **[View Full Competition Brief](./COMPETITION_BRIEF.md)**
+**[View FHEVM Examples Competition.mp4](https://streamable.com/lxplp5)**
+**[View Demo](https://fhevm-examples-competition.vercel.app/)**
 
 ---
 
